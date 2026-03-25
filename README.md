@@ -25,7 +25,7 @@ As per the BRD specifications, the following charts were developed to uncover de
 ## 🛠️ Technology Stack
 *   **Python 3.x**
 *   **Data Manipulation:** Pandas, NumPy
-*   **Data Visualization:** Matplotlib, Seaborn
+*   **Data Visualization:** Matplotlib, Seaborn, Developed dynamic dashboards in Power BI
 *   **Environment:** Jupyter Notebook
 
 ## 📂 Dataset Structure
